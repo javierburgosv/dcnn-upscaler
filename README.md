@@ -8,8 +8,8 @@ A very simple image upscaling deep convolutional neural network (DCNN) made usin
     <img src="./images/demo_v3.png" />
     <br><br>
     <a href="https://github.com/javierburgosv/dcnn-upscaler/blob/main/ImageUpscaler.ipynb">
-        <p style="font-size: 20px;background-color: #DA5B0B; color:white; border-radius: 10px; margin-left: 30%; margin-right: 30%">
-            Preview Notebook
+        <p>
+            Preview Notebook!
         <p>
     </a>
 </div>
