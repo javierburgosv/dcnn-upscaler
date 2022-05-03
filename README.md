@@ -8,9 +8,9 @@ A very simple image upscaling deep convolutional neural network (DCNN) made usin
     <img src="./images/demo_v3.png" />
     <br><br>
     <a href="https://github.com/javierburgosv/dcnn-upscaler/blob/main/ImageUpscaler.ipynb">
-        <h2>
-            Open Notebook
-        </h2>
+        <p style="font-size: 20px;background-color: #DA5B0B; color:white; border-radius: 10px; margin-left: 30%; margin-right: 30%">
+            Preview Notebook
+        <p>
     </a>
 </div>
 <br>
@@ -18,3 +18,5 @@ A very simple image upscaling deep convolutional neural network (DCNN) made usin
 :mag: About
 ----
 This is a basic experiment to learn about image processing using Keras. The trained model is being deployed on this [repository](https://github.com/javierburgosv/picplus-image-upscaler) to showcase the results as part of a full stack data science demo project.
+
+Feel free to fork this repo and experiment with the code.
